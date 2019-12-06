@@ -5,4 +5,6 @@
 text which should be converted to ASCII    
 2. cf_pdf2png - using provided ghostscript program to convert PDF file to PNG images (1 page -> 1 image)  
 3. cf_system - executing various system commands to explore system within Cloud Functions, like displaying all binaries,
-executing commands. 
+executing commands.   
+
+More information can be found in this article [Using system packages and custom binaries in Google Cloud Functions.](https://www.the-swamp.info/blog/google-cloud-functions-system-packages/)

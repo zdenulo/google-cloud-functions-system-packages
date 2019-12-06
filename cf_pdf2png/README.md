@@ -1,1 +1,1 @@
-# Explore Cloud Functions operating system
+# Cloud Function which returns response in ASCII text
